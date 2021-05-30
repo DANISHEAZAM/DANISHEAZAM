@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DANISHEAZAM
-- 👀 I’m interested in Data Science/Machine Learning
+- 👀 I’m interested in Data Science/Machine Learning/Deep Learning
 - 🌱 I’m currently learning Computer Vision
-- 💞️ I’m looking to collaborate on Data Science competition
+- 💞️ I’m looking to collaborate on Data Science competition and projects
 - 📫 How to reach me danisheazam@gmail.com
 
 <!---
